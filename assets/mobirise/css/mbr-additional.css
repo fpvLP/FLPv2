@@ -811,16 +811,16 @@ h6,
 }
 #ext_menu-5 .link[aria-expanded="true"],
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
-}
-#custom-html-z {
-  /* Type valid CSS here */
-}
-#custom-html-z .my-image {
-  width: 100%;
+  color: #3d8eb9!important;
 }
 #footer1-w P {
   color: #ffffff;
+}
+#extHeader10-1w H3 {
+  color: #b8312f;
+}
+#extHeader10-1w P {
+  color: #fac51c;
 }
 
 
