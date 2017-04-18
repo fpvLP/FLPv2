@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "login.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 77,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "a_espinosa@live.com",
@@ -38,8 +38,7 @@
       "checkoutButton": "Check Out with"
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
-    "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "noImageResize": ""
   },
   "pages": {
     "about.html": {
@@ -603,7 +602,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -812,9 +811,6 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#3d8eb9!important"
-            },
-            ".btn": {
-              "font-size": "14px"
             }
           },
           "_name": "ext.menu",
@@ -849,7 +845,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"register.html\">Sign up</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1767,6 +1763,196 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1z",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://fpvlandingpages.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"register.html\">Sign up</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-20",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 FpvLandingPages."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader14",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showForm": false,
+            "showArrow": false,
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH FORM",
+          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
+          "form": {
+            "action": "a_espinosa@live.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader14 mbr-after-navbar\" style=\"background-color: rgb(239, 239, 239);\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                        \n                <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\">\n                    <h1>Login</h1>\n                               {JS_CODE_0}<iframe id=\"formio-form-58e3f3fde3210d00f1dbf16f\" style=\"width:100%;border:none;\" height=\"600px\" src=\"https://formview.io/#/dbzmurhretvhkel/user/login?iframe=1&amp;header=0\"></iframe>\n                        </div>                        \n            </div>\n\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">(function a(d, w, u) {var h = d.getElementsByTagName(\"head\")[0];var s = d.createElement(\"script\");s.type = \"text/javascript\";s.src = \"https://portal.form.io/lib/seamless/seamless.parent.min.js\";s.onload = function b() {var f = d.getElementById(\"formio-form-58e3f3fde3210d00f1dbf16f\");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {window.location.href = \"https://formview.io/#/dbzmurhretvhkel/project1?header=0&theme=yeti\";});};h.appendChild(s);})(document, window);</script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "extHeader14-21"
+        }
+      ]
+    },
+    "register.html": {
+      "settings": {
+        "title": "Register",
+        "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
+        "order": 5,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
             "bgColor": "#b8312f",
             "fontSize": "0.9",
             "fontName": {},
@@ -1796,7 +1982,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"register.html\">Sign up</a></li>"
         },
         {
           "_tags": [
@@ -1808,7 +1994,7 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "footer1-20",
+          "_anchor": "footer1-12",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1824,38 +2010,262 @@
           "text": "Copyright (c) 2017 FpvLandingPages."
         },
         {
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header1",
-          "_anchor": "header1-26",
+          "_name": "extHeader14",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showForm": false,
+            "showArrow": false,
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
             "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "\n    \n\n                     <iframe src=\"https://fpvlp.github.io/FPVLP-BackEnd/\" class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar\" style=\"padding-top:100px;\">You need a Frames Capable browser to view this content.</iframe>  \n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH FORM",
+          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
+          "form": {
+            "action": "a_espinosa@live.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader14 mbr-after-navbar\" style=\"background-color: rgb(239, 239, 239);\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                        \n                <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\">\n                    <h1>Register</h1>\n                               {JS_CODE_0}<iframe id=\"formio-form-58e3f4e3561bdb00998622a6\" style=\"width:100%;border:none;\" height=\"600px\" src=\"https://formview.io/#/dbzmurhretvhkel/user/registration?iframe=1&amp;header=0\"></iframe>\n                        </div>                        \n            </div>\n\n        </div>\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">(function a(d, w, u) {var h = d.getElementsByTagName(\"head\")[0];var s = d.createElement(\"script\");s.type = \"text/javascript\";s.src = \"https://portal.form.io/lib/seamless/seamless.parent.min.js\";s.onload = function b() {var f = d.getElementById(\"formio-form-58e3f4e3561bdb00998622a6\");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {window.location.href = \"https://formview.io/#/dbzmurhretvhkel/user/login?header=0\";});};h.appendChild(s);})(document, window);</script>"
+          ],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "extHeader14-1g"
+        }
+      ]
+    },
+    "post-login.html": {
+      "settings": {
+        "title": "Post-Login",
+        "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
+        "order": 7,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-22",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://fpvlandingpages.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"register.html\">Sign up</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-23",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 FpvLandingPages."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader14",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showForm": false,
+            "showArrow": false,
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH FORM",
+          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
+          "form": {
+            "action": "a_espinosa@live.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader14 mbr-after-navbar\" style=\"background-color: rgb(239, 239, 239);\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                        \n                <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\">\n                    <h5>Thank you for signing up. Now please log in to your account..</h5>\n                    <h2>Login</h2>\n                               {JS_CODE_0}<iframe id=\"formio-form-58e3f3fde3210d00f1dbf16f\" style=\"width:100%;border:none;\" height=\"600px\" src=\"https://formview.io/#/dbzmurhretvhkel/user/login?iframe=1&amp;header=0\"></iframe>\n                        </div>                        \n            </div>\n\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">(function a(d, w, u) {var h = d.getElementsByTagName(\"head\")[0];var s = d.createElement(\"script\");s.type = \"text/javascript\";s.src = \"https://portal.form.io/lib/seamless/seamless.parent.min.js\";s.onload = function b() {var f = d.getElementById(\"formio-form-58e3f3fde3210d00f1dbf16f\");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {window.location.href = \"https://formview.io/#/dbzmurhretvhkel/project1?header=0&theme=yeti\";});};h.appendChild(s);})(document, window);</script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "extHeader14-24"
         }
       ]
     },
