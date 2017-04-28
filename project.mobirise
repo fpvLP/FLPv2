@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "a_espinosa@live.com",
@@ -891,70 +891,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features1-t\" data-toolbar=\"-mbrBtnMove\">Tell me MORE!</a>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader14",
-          "_anchor": "extHeader14-27",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showForm": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo.svg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "INTRO WITH FORM",
-          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
-          "form": {
-            "action": "a_espinosa@live.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
-        },
-        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -1187,10 +1123,8 @@
               "color": "#fff"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#f7da64",
-              "font-size": "14px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "color": "#a0a0a0",
+              "font-size": "9px"
             },
             ".mbr-plan-title": {
               "color": "#ffffff",
@@ -1199,26 +1133,20 @@
             ".mbr-plan-price-desc": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            ".mbr-price-value": {
-              "font-size": "12px"
-            },
-            ".mbr-price-figure": {
-              "font-size": "60px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-u",
+          "_anchor": "pricing-table1-28",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#2d2d2d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1231,39 +1159,39 @@
             "showSubtitle": true,
             "firstType": "",
             "showButtons": true,
-            "secondType": "bg-primary",
+            "secondType": "",
             "thirdType": "",
             "fourthType": "hidden"
           },
           "title": "FPV LP PRICING",
-          "subtitle": "*No yearly or monthly fees. IT'S A <b>ONE</b> <b>TIME</b> <b>PAYMENT</b>.&nbsp;",
+          "subtitle": "Pricing is subject to change.",
           "label1": "HOT!",
-          "title1": "4S - Standard Design - 60C<br>",
+          "title1": "4S - Standard Design - 60C",
           "subtitle1": "",
-          "currency1": "Starting at<br>$",
+          "currency1": "$",
           "price1": "80",
           "period1": "",
           "description1": "+ domain fee//&nbsp;Normal price: $100<br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Customize your own Color, Logo, Pictures, &nbsp;S<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">ocial media links.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Choose a Main Widget, and customize the colors, logo, and social media links<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
           "label2": "HOT!",
           "title2": "5S - Semi-Custom - 80C",
           "subtitle2": "",
-          "currency2": "<br><br>",
-          "price2": "160",
+          "currency2": "$",
+          "price2": "150",
           "period2": "",
-          "description2": "+ domain fee //Normal Price:  $200<br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Further customize one of our layouts, look no more!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "description2": "+ domain fee //Normal Price:  $180<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Customize one of pre-design layouts!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored and custom Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
           "label3": "HOT!",
           "title3": "&nbsp;6S - Custom - POWAA",
           "subtitle3": "",
           "currency3": "$",
-          "price3": "400+",
+          "price3": "250+",
           "period3": "",
-          "description3": "Special quote",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for?</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 3 one on one sessions + 5 revisions.</li><li class=\"list-group-item\"><br></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "description3": "Special quote needed. <a href=\"contact.html\">Contact us!</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for? This is it!</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 2 one on one sessions + 5 revisions.</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Quote</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
           "subtitle4": "Description",
@@ -1739,28 +1667,28 @@
           "title1": "4S - Standard Design - 60C",
           "subtitle1": "",
           "currency1": "$",
-          "price1": "60",
+          "price1": "80",
           "period1": "",
-          "description1": "+ domain fee//&nbsp;Normal price: $80<br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Customize your own Color, Logo, Pictures, &nbsp;S<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">ocial media links.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=60.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "description1": "+ domain fee//&nbsp;Normal price: $100<br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Choose a Main Widget, and customize the colors, logo, and social media links<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
           "label2": "HOT!",
           "title2": "5S - Semi-Custom - 80C",
           "subtitle2": "",
           "currency2": "$",
-          "price2": "100",
+          "price2": "150",
           "period2": "",
-          "description2": "+ domain fee //Normal Price:  $120<br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Customize one of our layouts!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=100.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "description2": "+ domain fee //Normal Price:  $180<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Customize one of pre-design layouts!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored and custom Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
           "label3": "HOT!",
           "title3": "&nbsp;6S - Custom - POWAA",
           "subtitle3": "",
           "currency3": "$",
-          "price3": "200+",
+          "price3": "250+",
           "period3": "",
-          "description3": "Special quote",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for?</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 3 one on one sessions + 5 revisions.</li></ul>",
+          "description3": "Special quote needed. <a href=\"contact.html\">Contact us!</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for? This is it!</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 2 one on one sessions + 5 revisions.</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Quote</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
