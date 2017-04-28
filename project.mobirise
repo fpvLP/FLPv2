@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "index.html",
+    "currentPage": "pricing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,14 +25,14 @@
     "uniqCompNum": 81,
     "versionPublish": "3.12.1",
     "mcShopcart": {
-      "email": "a_espinosa@live.com",
-      "iconSize": "25",
+      "email": "hello@fpvlandingpages.com",
+      "iconSize": "40",
       "iconColor": "#ffffff",
       "backColor": "#000000",
       "topOffset": "120",
       "rightOffset": "20",
       "siteWidth": "1150",
-      "counterSize": "9",
+      "counterSize": "14",
       "counterColor": "#FFFFFF",
       "counterBack": "#b8312f",
       "checkoutButton": "Check Out with"
@@ -1671,7 +1671,7 @@
           "period1": "",
           "description1": "+ domain fee//&nbsp;Normal price: $100<br>",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Choose a Main Widget, and customize the colors, logo, and social media links<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
           "label2": "HOT!",
           "title2": "5S - Semi-Custom - 80C",
           "subtitle2": "",
