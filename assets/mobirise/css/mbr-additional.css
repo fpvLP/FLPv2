@@ -998,6 +998,12 @@ h6,
 #pricing-table1-u .mbr-plan-price-desc {
   font-family: 'Roboto Condensed', sans-serif;
 }
+#pricing-table1-u .mbr-price-value {
+  font-size: 12px;
+}
+#pricing-table1-u .mbr-price-figure {
+  font-size: 60px;
+}
 #social-buttons1-v .mbr-section-title {
   color: #b8312f;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "login.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "a_espinosa@live.com",
@@ -39,14 +39,15 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "about.html": {
       "settings": {
         "title": "ABOUT",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -362,7 +363,7 @@
       "settings": {
         "title": "CONTACT",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -550,7 +551,7 @@
       "settings": {
         "title": "STEPS",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 4
+        "order": 2
       },
       "components": [
         {
@@ -709,23 +710,23 @@
             "showSubtitle": true,
             "showDates": true
           },
-          "mainTitle": "Steps to Rock a Landig Page",
-          "mainSubtitle": "We wish this was like a cookie cutter. But it isn't so bare with us in case we modify our plans!",
+          "mainTitle": "Steps to AWESOMENESS!",
+          "mainSubtitle": "We wish this was like easy as &nbsp;using a cookie cutter. But it isn't, so bare with us in case we modify our work structure!",
           "date1": "STEP 1",
           "title1": "1. Pick what category of Landing Page you prefer:",
-          "text1": "We have 3 design categories! From the most simple one in which you pick from a default set of designs, to a more complex one where you fully customize a website along with one of our developers. CLICK <a href=\"pricing.html\">HERE</a>!",
+          "text1": "We have 3 design categories! Pick the one tha suits your needs, then added to your cart, and follow to the next step. &nbsp;<a href=\"pricing.html\">CLICK HERE</a>!",
           "date2": "STEP 2",
           "title2": "2. Register and create a USER",
-          "text2": "Click on the upper right corner and create a user! This will redirect you to a fill out form where you will pick your category, and give all of the necessary information. Click <a href=\"user.html\">HERE</a>!",
+          "text2": "Click on Login on the upper right corner and create a new user! Now that you have a user, fill out your profile with the required information. <a href=\"login.html\">CLICK HERE</a>!",
           "date3": "STEP 3",
           "title3": "3. Setting up your CUSTOM DOMAIN",
-          "text3": "will be the only real job for you in this project, but dontt worry, we have a full guide on haw to do it <a href=\"tutorials.html\">HERE</a>!<br><br>",
+          "text3": "Follow the video here, will be the only real job for you in this project, but dontt worry, we have a full guide on how to do it <a href=\"tutorials.html\">HERE</a>!<br><br>",
           "date4": "Step 4",
           "title4": "4. Cody the monkey",
           "text4": "will start setting up your Landing Page with all the information you provided. When done, he will send you an email with the current version, for you to review and make any revisions needed.",
-          "date5": "AWESOME LANDING PAGE GOES LIVE!",
+          "date5": "YOUR NEW AWESOME LANDING PAGE GOES LIVE!",
           "title5": "5. Revisions",
-          "text5": "Any revisions needed will be done.&nbsp;",
+          "text5": "Our dev-team will contact you to go over the landing page, and check if any revisions are needed.&nbsp;",
           "date6": "6 June 2016",
           "title6": "6. Multi Homepages",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -890,6 +891,70 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features1-t\" data-toolbar=\"-mbrBtnMove\">Tell me MORE!</a>"
         },
         {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader14",
+          "_anchor": "extHeader14-27",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo.svg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH FORM",
+          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
+          "form": {
+            "action": "a_espinosa@live.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -970,7 +1035,7 @@
           },
           "title1": "PICK:",
           "subtitle1": "Custom domain.",
-          "caption1": "Pick the package you prefer for your Landing Page, and a custom domain following the video tutorial.",
+          "caption1": "Pick the package you prefer for your Landing Page, and a custom domain. You can follow the steps here!",
           "button1": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -984,10 +1049,10 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "FILL THE FORM:",
+          "title2": "CREATE YOUR USER:",
           "subtitle2": "Send us your info.",
-          "caption2": "Fill up the provided form with all the fields required, and we will start setting up your Landing Page.",
-          "button2": "<a data-app-btn=\"true\" href=\"user.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Create a user and login. Now fill up yor profile with the required fields. Sign up for a user account below!&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"login.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bm-form-600x600.png",
@@ -1134,6 +1199,12 @@
             ".mbr-plan-price-desc": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-price-value": {
+              "font-size": "12px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -1167,31 +1238,31 @@
           "title": "FPV LP PRICING",
           "subtitle": "*No yearly or monthly fees. IT'S A <b>ONE</b> <b>TIME</b> <b>PAYMENT</b>.&nbsp;",
           "label1": "HOT!",
-          "title1": "4S - Standard Design - 60C",
+          "title1": "4S - Standard Design - 60C<br>",
           "subtitle1": "",
-          "currency1": "$",
-          "price1": "60",
+          "currency1": "Starting at<br>$",
+          "price1": "80",
           "period1": "",
-          "description1": "+ domain fee//&nbsp;Normal price: $80<br>",
+          "description1": "+ domain fee//&nbsp;Normal price: $100<br>",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Customize your own Color, Logo, Pictures, &nbsp;S<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">ocial media links.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "label2": "HOT!",
           "title2": "5S - Semi-Custom - 80C",
           "subtitle2": "",
-          "currency2": "$",
-          "price2": "100",
+          "currency2": "<br><br>",
+          "price2": "160",
           "period2": "",
-          "description2": "+ domain fee //Normal Price:  $120<br>",
+          "description2": "+ domain fee //Normal Price:  $200<br>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Further customize one of our layouts, look no more!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "label3": "HOT!",
           "title3": "&nbsp;6S - Custom - POWAA",
           "subtitle3": "",
           "currency3": "$",
-          "price3": "200+",
+          "price3": "400+",
           "period3": "",
           "description3": "Special quote",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for?</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 3 one on one sessions + 5 revisions.</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for?</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 3 one on one sessions + 5 revisions.</li><li class=\"list-group-item\"><br></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
@@ -1264,7 +1335,7 @@
       "settings": {
         "title": "Tutorials",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -1501,7 +1572,7 @@
       "settings": {
         "title": "Pricing",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -1707,7 +1778,7 @@
       "settings": {
         "title": "Login",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 6,
+        "order": 5,
         "header_custom": ""
       },
       "components": [
