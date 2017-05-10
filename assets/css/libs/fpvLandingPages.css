@@ -2,7 +2,7 @@
 
 #instafeed {
   width: 100%;
-  clear: left;
+  padding-top: 50px;
 }
 #instafeed a {
   display: block;
@@ -13,6 +13,7 @@
 @media screen and (min-width: 580px) {
   #instafeed a {
     width: 25%;
+    padding-top: 80px;
   }
 }
 #instafeed a img {
