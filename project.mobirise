@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "beta-pricing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -891,7 +891,7 @@
           },
           "title": "LANDING PAGES&nbsp;<br> FOR",
           "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"beta-pricing.html\" data-toolbar=\"-mbrBtnMove\">I'm a BETA TESTER</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"beta-pricing.html\" data-toolbar=\"-mbrBtnMove\">I'm an ALPHA TESTER</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -2032,7 +2032,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"beta-pricing.html#pricing-table1-2b\" data-toolbar=\"-mbrBtnMove\">ALPHA Tester Pricing</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"beta-pricing.html#pricing-table1-2b\" data-toolbar=\"-mbrBtnMove\">ALPHA Tester Pricing</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://github.com/fpvLP/FLPv2/blob/master/README.md\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read our Change Log</a> "
         },
         {
           "_styles": {
