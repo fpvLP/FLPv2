@@ -1,13 +1,34 @@
+/*FLP LOGO*/
+.logo {
+  position: fixed;
+  bottom: 3vh;
+  right: 3vw;
+  z-index: 2;
+}
+.logo img {
+  width: 45px;
+  -webkit-transform: rotate(0);
+          transform: rotate(0);
+  -webkit-transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.logo img:hover {
+  -webkit-transform: rotate(180deg) scale(1.1);
+          transform: rotate(180deg) scale(1.1);
+}
+
 /*INSTAFEED CSS*/
 
 #instafeed {
   width: 100%;
+    padding-top:50px;
 }
 #instafeed a {
   display: block;
   float: left;
   position: relative;
-  width: 50%;
+  width: 33.33%;
+    padding:3px;
 }
 @media screen and (min-width: 580px) {
   #instafeed a {
@@ -19,7 +40,6 @@
   width: 100%;
   height: 100%;
 }
-
 
 
 
