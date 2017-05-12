@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
 - Semi-Custom, and Custom Tier
 
 
-## [0.4.0] - 2017-5-05
+## [0.4.0] - 2017-5-12
 ### Added
 - Form Guiding links where added.
 - New User Automatic e-mail fix.
