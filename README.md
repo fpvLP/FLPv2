@@ -1,4 +1,4 @@
-FPV Landing PAGES v0.5
+FPV Landing PAGES v0.6
 # Change Log
 All notable changes to this project will be documented in this file.
 
@@ -7,10 +7,20 @@ All notable changes to this project will be documented in this file.
 - Regular Pricing
 - Semi-Custom, and Custom Tier
 
+
+## [0.4.0] - 2017-5-05
+### Added
+- Form Guiding links where added.
+- New User Automatic e-mail fix.
+- Category-tier completed.
+
 ### Changed
-- Fix typos in pages.
+- Categories.
 
 ## [0.3.0] - 2017-5-05
 ### Added
 - ALPHA Tester's page.
 - ALPHA Tester's Pricing.
+
+### Changed
+- Fix typos in pages.
