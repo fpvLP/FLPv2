@@ -1323,6 +1323,15 @@ h6,
 #extFeatures8-2c .feature-title {
   color: #b8312f;
 }
+#extFeatures12-2n .card-number {
+  color: #3d8eb9;
+}
+#extFeatures12-2n .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-2n .wraper {
+  border-color: undefined !important;
+}
 #ext_menu-2e .hide-buttons .nav-btn {
   display: none !important;
 }

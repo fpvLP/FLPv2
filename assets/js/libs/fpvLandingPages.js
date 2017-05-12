@@ -1,4 +1,5 @@
 // Instafeed JS
+// js for INSTAGRAM WIDGET 1
 (function() {
     var e;
     e = function() {
