@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "index.html",
+    "currentPage": "giveaway.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 113,
+    "uniqCompNum": 111,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "hello@fpvlandingpages.com",
@@ -363,7 +363,7 @@
       "settings": {
         "title": "CONTACT",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 10
+        "order": 6
       },
       "components": [
         {
@@ -755,8 +755,8 @@
       "settings": {
         "main": true,
         "title": "FPV Landing Pages",
-        "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />",
+        "meta_descr": "Home for Cody the coding monkey! Creators and master minds behind the best FPV Landing Pages in the Universe!\nShare with the world your awesomeness through your very own domain!",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -891,7 +891,7 @@
           },
           "title": "LANDING PAGES&nbsp;<br> FOR",
           "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">Become ALPHA TESTER</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">I'm an ALPHA TESTER</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1709,7 +1709,7 @@
       "settings": {
         "title": "Login",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 6,
+        "order": 7,
         "header_custom": ""
       },
       "components": [
@@ -2267,9 +2267,9 @@
     "logos.html": {
       "settings": {
         "title": "LogoAssetes",
-        "meta_descr": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveaway-1400x995.jpg\" />",
+        "meta_descr": "",
         "header_custom": "",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2404,26 +2404,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/instagram-2000x714-800x285.png",
                 "image": "@PROJECT_PATH@/assets/images/instagram-2000x714.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/giveaway-1400x995-800x568.jpg",
-                "image": "@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alpha-testers-2000x2113-800x845.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alpha-testers-2000x2113.jpg",
-                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -2445,8 +2425,7 @@
       "settings": {
         "title": "Alpha Tester's Program",
         "meta_descr": "- Get ahead of the game and get your very own Pilot Website today!\n- Get a 50% off your Landing Page, plus a ton of awesome perks!",
-        "order": 2,
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />"
+        "order": 2
       },
       "components": [
         {
@@ -2600,7 +2579,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Following the initial phase of the development of FPV Landing Pages, we are ready to test the functionality of our product with a small group of Alpha Testers!</b></p><p><b>We couldn't be more excited about our product, and now is time to share our excitement with you guys!</b></p><p><b>Our main goal is to test our product and get user stories to make modification and/or improvements as needed!</b></p><p><br>As an ALPHA Tester, you will help us debug our app and service! Your main goal is to constructively criticize your experience while using our app and service!  You will also receive a couple of surveys to get your input about some specific functions of the app. &nbsp;</p><p><br></p><p></p><blockquote><p>In exchange, we want to offer you a 50% discount, and the opportunity to work with our lead developer in the creation of your landing page. This includes the Standard Tier of our service, which will include one of our standard widgets (Youtube, Instagram or Image Carousel).</p><p>Also, as a token of our appreciation, once we are done with TESTING, we will re-visit your landing page, and perform any improvements learned and developed through or ALPHA testing programs! ( You will get the best of the best &nbsp;:D )!</p></blockquote><br>If you think you are a good candidate for our ALPHA Tester's Program, please look around the website, and when you are ready click on the link below to go to our ALPHA Tester's discounted pricing page. Add the Standard package to your cart and checkout with your PayPal account!<p></p><p></p><div>After this, create a user, and fill up your profile!</div>"
+          "text": "<p><b>Following the initial phase of the development of FPV Landing Pages, we are ready to test the functionality of our product with a small group of Alpha Testers!</b></p><p><b>We couldn't be more excited about our product, and now is time to share our excitement with you guys!</b></p><p><b>Our main goal is to test our product and get user stories to make modification and/or improvements as needed!</b></p><p><br>As an ALPHA Tester, you will help us debug our app and service! Your main goal is to constructively criticize your experience while using our app and service!  You will also receive a couple of surveys to get your input about some specific functions of the app. &nbsp;</p><p><br></p><p></p><blockquote><p>In exchange, we are offering a 50% discount, and the opportunity to work with our lead developer in the creation of your landing page. This includes the Standard Tier of our service, which will include one of our standard widgets (Youtube, Instagram or Image Carousel).</p><p>Also, as a token of our appreciation, once we are done with TESTING, we will re-visit your landing page, and apply any improvements learned and developed through or ALPHA testing programs! ( You will get the best of the best &nbsp;:D )!</p></blockquote><br>If you think you are a good candidate for our ALPHA Tester's Program, please look around the website, and when you are ready click on the link below to go to our ALPHA Tester's discounted pricing page. Add the Standard package to your cart and checkout with your PayPal account!<p></p><p></p><div>After this, create a user, and fill up your profile!</div>"
         },
         {
           "_tags": [
@@ -2881,7 +2860,7 @@
         "title": "FLP Giveaway",
         "meta_descr": "Win one FREE Landing Page a day for an entire week! Click here to enter the GIVEAWAY!",
         "order": 7,
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveaway-1400x995.jpg\" />"
+        "header_custom": ""
       },
       "components": [
         {
@@ -3016,34 +2995,35 @@
             "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "1 FREE LANDING PAGE EACH DAY FOR AN ENTIRE WEEK!",
-          "meta": "<p>Starting today May 17th, we will be giving out one <a href=\"widgets.html\" target=\"_blank\">standard category Landing Page</a>&nbsp;each day for a week. Contest will be made by randomly picking a winner at ~8pm EST every day! ($100 worth)</p>"
+          "title": "1 FREE LANDING PAGE EACH DAY FOR A WEEK!",
+          "meta": "<p>Starting today May 16th, we will be giving out one <a href=\"widgets.html\" target=\"_blank\">standard category Landing Page</a>&nbsp;each day for a week. Contest will be made by randomly picking a follower at ~8pm EST every day!</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_anchor": "msg-box5-2z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -3070,15 +3050,13 @@
           "title": "FREE Fpv Landing Page GIVEAWAY!",
           "text": "STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;websites'",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here, and then paste on your<br>Facebook Status to SHARE!</a> ",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"14\">FREE Fpv Landing Page GIVEAWAY!</h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"15\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email that we can contact you on!<br><strong>STEP 3:</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!</p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"16\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboar script    -->\n    {JS_CODE_1}\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"230\">FREE Fpv Landing Page GIVEAWAY!</h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"231\">STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;website on your facebook by clicking on the button below!</p>\n                  </div>\n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"232\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n\n                  \n\n\n    \n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboar script    -->\n    {JS_CODE_0}\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script>\n                  function btn_Click(){\n    alert(\"test\");}</script>",
-            "<script>\nfunction copyToClipboard(element) {\n  var $temp = $(\"<input>\");\n  $(\"body\").append($temp);\n  $temp.val($(element).text()).select();\n  document.execCommand(\"copy\");\n  $temp.remove();\n    alert(\"Perfect, now paste on your facebook status!\");\n}\n    </script>"
+            "<script>\nfunction copyToClipboard(element) {\n  var $temp = $(\"<input>\");\n  $(\"body\").append($temp);\n  $temp.val($(element).text()).select();\n  document.execCommand(\"copy\");\n  $temp.remove();\n}\n    </script>"
           ],
           "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "msg-box5-2z"
+          "_customTemplate": true
         },
         {
           "_inherit": "social-buttons2",
@@ -3134,7 +3112,7 @@
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "\n                     <iframe src=\"https://formview.io/#/jvajhtzsebmmqfn/giveaway1?header=0&amp;theme=readable\n\" class=\" mbr-section mbr-section-full   mbr-after-navbar\" style=\"padding-top:100px;\">You need a Frames Capable browser to view this content.</iframe> \n\n\n\n\n",
+          "_customHTML": "\n    \n\n                     <iframe src=\"https://formview.io/#/jvajhtzsebmmqfn/giveaway1?header=0&amp;theme=readable\n\" class=\" mbr-section mbr-section-full   mbr-after-navbar\" style=\"padding-top:100px; padding-bottom: 50px;\">You need a Frames Capable browser to view this content.</iframe>  \n\n\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",

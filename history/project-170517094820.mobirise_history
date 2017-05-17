@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "index.html",
+    "currentPage": "giveaway.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -40,7 +40,10 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "about.html": {
@@ -756,7 +759,7 @@
         "main": true,
         "title": "FPV Landing Pages",
         "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -891,7 +894,7 @@
           },
           "title": "LANDING PAGES&nbsp;<br> FOR",
           "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">Become ALPHA TESTER</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">I'm an ALPHA TESTER</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -2600,7 +2603,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Following the initial phase of the development of FPV Landing Pages, we are ready to test the functionality of our product with a small group of Alpha Testers!</b></p><p><b>We couldn't be more excited about our product, and now is time to share our excitement with you guys!</b></p><p><b>Our main goal is to test our product and get user stories to make modification and/or improvements as needed!</b></p><p><br>As an ALPHA Tester, you will help us debug our app and service! Your main goal is to constructively criticize your experience while using our app and service!  You will also receive a couple of surveys to get your input about some specific functions of the app. &nbsp;</p><p><br></p><p></p><blockquote><p>In exchange, we want to offer you a 50% discount, and the opportunity to work with our lead developer in the creation of your landing page. This includes the Standard Tier of our service, which will include one of our standard widgets (Youtube, Instagram or Image Carousel).</p><p>Also, as a token of our appreciation, once we are done with TESTING, we will re-visit your landing page, and perform any improvements learned and developed through or ALPHA testing programs! ( You will get the best of the best &nbsp;:D )!</p></blockquote><br>If you think you are a good candidate for our ALPHA Tester's Program, please look around the website, and when you are ready click on the link below to go to our ALPHA Tester's discounted pricing page. Add the Standard package to your cart and checkout with your PayPal account!<p></p><p></p><div>After this, create a user, and fill up your profile!</div>"
+          "text": "<p><b>Following the initial phase of the development of FPV Landing Pages, we are ready to test the functionality of our product with a small group of Alpha Testers!</b></p><p><b>We couldn't be more excited about our product, and now is time to share our excitement with you guys!</b></p><p><b>Our main goal is to test our product and get user stories to make modification and/or improvements as needed!</b></p><p><br>As an ALPHA Tester, you will help us debug our app and service! Your main goal is to constructively criticize your experience while using our app and service!  You will also receive a couple of surveys to get your input about some specific functions of the app. &nbsp;</p><p><br></p><p></p><blockquote><p>In exchange, we are offering a 50% discount, and the opportunity to work with our lead developer in the creation of your landing page. This includes the Standard Tier of our service, which will include one of our standard widgets (Youtube, Instagram or Image Carousel).</p><p>Also, as a token of our appreciation, once we are done with TESTING, we will re-visit your landing page, and apply any improvements learned and developed through or ALPHA testing programs! ( You will get the best of the best &nbsp;:D )!</p></blockquote><br>If you think you are a good candidate for our ALPHA Tester's Program, please look around the website, and when you are ready click on the link below to go to our ALPHA Tester's discounted pricing page. Add the Standard package to your cart and checkout with your PayPal account!<p></p><p></p><div>After this, create a user, and fill up your profile!</div>"
         },
         {
           "_tags": [
@@ -3070,7 +3073,7 @@
           "title": "FREE Fpv Landing Page GIVEAWAY!",
           "text": "STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;websites'",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here, and then paste on your<br>Facebook Status to SHARE!</a> ",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"14\">FREE Fpv Landing Page GIVEAWAY!</h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"15\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email that we can contact you on!<br><strong>STEP 3:</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!</p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"16\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboar script    -->\n    {JS_CODE_1}\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"131\">FREE Fpv Landing Page GIVEAWAY!</h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"132\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email that we can contact you on!<br><strong>STEP 3:</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!</p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"133\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboar script    -->\n    {JS_CODE_1}\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script>\n                  function btn_Click(){\n    alert(\"test\");}</script>",

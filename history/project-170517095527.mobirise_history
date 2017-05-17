@@ -40,7 +40,10 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "about.html": {
@@ -756,7 +759,7 @@
         "main": true,
         "title": "FPV Landing Pages",
         "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
