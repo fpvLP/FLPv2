@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "alpha.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 144,
+    "uniqCompNum": 113,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "hello@fpvlandingpages.com",
@@ -40,14 +40,17 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "about.html": {
       "settings": {
         "title": "ABOUT",
         "meta_descr": "Want to get noticed? Get your own website at FPV Landing Pages.",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -363,7 +366,7 @@
       "settings": {
         "title": "CONTACT",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 13
+        "order": 10
       },
       "components": [
         {
@@ -551,7 +554,7 @@
       "settings": {
         "title": "STEPS",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -756,7 +759,7 @@
         "main": true,
         "title": "FPV Landing Pages",
         "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>",
+        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -892,51 +895,6 @@
           "title": "LANDING PAGES&nbsp;<br> FOR",
           "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">Become ALPHA TESTER</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_customHTML": "<section class=\"mbr-info mbr-section \" style=\"background-color: rgb(46, 46, 46); padding-bottom: 40px;padding-top: 5px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n        <div class=\"text-xs-center\">\n            <h1 style=\"color:white;\">Demo on Devices</h1>\n        </div>\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell col-md-2\">\n                  <h3 style=\"color:white;\">Click on Browse and then select the decive you want to demo on!</h3>\n                  <div class=\"devices\">\n                    <a href=\"#\" class=\"mobile\"></a>\n                    <a href=\"#\" class=\"tablet\"></a>\n                    <a href=\"#\" class=\"laptop\"></a>\n                    </div>\n              </div>\n              \n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-10 text-xs-center text-md-left\">\n                    <div class=\"browser mobile display-2\">\n                      <div class=\"searchbar\">\n                        <form>\n                          <input type=\"url\" class=\"url\" value=\"http://dexfpv.com\">\n                              <button class=\"btn\">Browse</button>\n                        </form>\n                      </div>\n                    <div class=\"iframe\"></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n</section>\n\n{JS_CODE_0}\n",
-          "_customCSS": "/* #3a99a7 #465f70  */\n* {\n  box-sizing: border-box;\n}\n\n::-webkit-scrollbar {\n  width: 16px;\n  height: 16px;\n  overflow: visible;\n}\n\n::-webkit-scrollbar-thumb {\n  background-color: rgba(0, 0, 0, 0.2);\n  background-clip: padding-box;\n  border: solid transparent;\n  min-height: 28px;\n  padding: 100px 0 0;\n  -webkit-box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);\n  box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);\n}\n\n::-webkit-scrollbar-button {\n  height: 0;\n  width: 0;\n}\n\n::-webkit-scrollbar-track-piece {\n  background: #f5f5f5;\n}\n\n::-webkit-scrollbar-track {\n  background: none;\n}\n\n::-webkit-scrollbar-corner {\n  background: transparent;\n}\n\n.browser,\n.browser * {\n  transition: width .3s ease;\n}\n\n.devices { \n  float:left;\n  padding-top:20px;\n  padding-right:40px;\n  display:inline;\n}\n\n.browser {\n  padding-top:20px;\n  float:left;\n  margin: 20px auto;\n  width: 320px;\n  min-height: 640px;\n  background: #f5f5f5;\n  border-radius: 5px;\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);\n}\n\n.devices a {\n  margin: 0 10px;\n}\n.devices .mobile {\n  width: 40px;\n  height: 75px;\n  border: 2px solid #f5f5f5;\n  border-top-width: 5px;\n  border-bottom-width: 8px;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px;\n  position: relative;\n}\n.devices .mobile:hover {\n  background: #8f8f8f;\n}\n.devices .mobile:before {\n  content: '';\n  display: block;\n  background: #888;\n  width: 17px;\n  height: 1px;\n  border-radius: 2px;\n  position: absolute;\n  top: -3px;\n  left: 50%;\n  margin-left: -8px;\n}\n.devices .mobile:after {\n  content: '';\n  display: block;\n  background: #888;\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  position: absolute;\n  bottom: -5px;\n  left: 50%;\n  margin-left: -1px;\n}\n.devices .tablet {\n  width: 100px;\n  height: 133px;\n  border: 2px solid #f5f5f5;\n  border-top-width: 5px;\n  border-bottom-width: 8px;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px;\n  position: relative;\n}\n.devices .tablet:hover {\n  background: #8f8f8f;\n}\n.devices .tablet:before {\n  content: '';\n  display: block;\n  background: #888;\n  width: 1px;\n  height: 1px;\n  border-radius: 2px;\n  position: absolute;\n  top: -3px;\n  left: 50%;\n}\n.devices .tablet:after {\n  content: '';\n  display: block;\n  background: #888;\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  position: absolute;\n  bottom: -5px;\n  left: 50%;\n  margin-left: -1px;\n}\n.devices .laptop {\n  width: 170px;\n  height: 130px;\n  border: 8px solid #f5f5f5;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px 3px 0 0;\n  position: relative;\n}\n.devices .laptop:hover {\n  background: #8f8f8f;\n}\n.devices .laptop:after {\n  content: \" \";\n  background: #e8e8e8;\n  display: block;\n  width: 120%;\n  position: absolute;\n  bottom: -10px;\n  margin-left: -10%;\n  height: 10px;\n  border-radius: 0 0 5px 5px;\n}\n\n\n.browser.mobile {\n  width: 50%;\n}\n.browser.mobile .btn {\n  width: 20%;\n}\n.browser.mobile input[type=\"url\"] {\n  width: 78%;\n}\n.browser.tablet {\n  width: 70%;\n}\n.browser.tablet .btn {\n  width: 14%;\n}\n.browser.tablet input[type=\"url\"] {\n  width: 85%;\n}\n.browser.laptop {\n  width: 100%;\n}\n.browser.laptop .btn {\n  width: 9%;\n}\n.browser.laptop input[type=\"url\"] {\n  width: 90%;\n}\n.browser .searchbar {\n  border-radius: 5px 5px 0 0;\n  background: #dddddd;\n  height: 33px;\n  width: 100%;\n  padding: 5px;\n  position: relative;\n}\n.browser .searchbar .btn {\n  position: absolute;\n  top: 6px;\n  right: 5px;\n  border: none;\n  display: block;\n  text-align: center;\n  background: #3a99a7;\n  color: #fff;\n  text-decoration: none;\n  font-size: 11px;\n  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.1);\n  padding: 3px 8px;\n  border-radius: 3px;\n  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);\n  transition: background-color .3s ease;\n}\n.browser .searchbar .btn:hover {\n  background: #368f9c;\n}\n.browser .searchbar input[type=\"url\"] {\n  height: 20px;\n  padding: 5px;\n  border-radius: 3px;\n  border: none;\n  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.2);\n  outline: none;\n  font-size: 9px;\n  color: #aaa;\n}\n\niframe {\n  width: 99.9%;\n  height: 607px;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "msg-box2-3z",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>\n\nvar url = $('.url'),\n    btn = $('.btn'),\n    device = $('.devices a');\n\nbtn.on('click',function(e){\n  e.preventDefault();\n  $('.iframe').html($('<iframe />').attr({\"src\":url.val()}));\n});\n\ndevice.on('click',function(e){\n  e.preventDefault();\n  var type = $(this).attr('class');\n  console.log(type);\n  $('.browser').attr('class','browser '+type);\n});\n</script>"
-          ]
         },
         {
           "_inherit": "social-buttons2",
@@ -1166,6 +1124,91 @@
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>"
         },
         {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-size": "9px"
+            },
+            ".mbr-plan-title": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-plan-price-desc": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-28",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2d2d2d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "hidden"
+          },
+          "title": "FPV LP PRICING",
+          "subtitle": "Pricing is subject to change.",
+          "label1": "HOT!",
+          "title1": "4S - Standard Design - 60C",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "80",
+          "period1": "",
+          "description1": "+ domain fee<br>//&nbsp;Regular price: $100<br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Choose a Main Widget, and customize the colors, logo, and social media links<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "label2": "HOT!",
+          "title2": "5S - Semi-Custom - 80C",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "150",
+          "period2": "",
+          "description2": "+ domain fee <br>//Regular Price:  $180<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Customize one of pre-design layouts!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored and custom Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "label3": "HOT!",
+          "title3": "&nbsp;6S - Custom - POWAA",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "250+",
+          "period3": "",
+          "description3": "Special quote needed.<br> <a href=\"contact.html\">Contact us!</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for? This is it!</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 2 one on one sessions + 5 revisions.</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Quote</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1226,7 +1269,7 @@
       "settings": {
         "title": "Tutorials",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 12
+        "order": 9
       },
       "components": [
         {
@@ -1463,7 +1506,7 @@
       "settings": {
         "title": "Pricing",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 11
+        "order": 8
       },
       "components": [
         {
@@ -1669,7 +1712,7 @@
       "settings": {
         "title": "Login",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 8,
+        "order": 6,
         "header_custom": ""
       },
       "components": [
@@ -1825,7 +1868,7 @@
       "settings": {
         "title": "Widgets",
         "meta_descr": "Home for Cody the coding monkey! Creators and master minds of the best Landing Pages in town!",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -2229,7 +2272,7 @@
         "title": "LogoAssetes",
         "meta_descr": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveaway-1400x995.jpg\" />",
         "header_custom": "",
-        "order": 14
+        "order": 11
       },
       "components": [
         {
@@ -2405,7 +2448,7 @@
       "settings": {
         "title": "Alpha Tester's Program",
         "meta_descr": "- Get ahead of the game and get your very own Pilot Website today!\n- Get a 50% off your Landing Page, plus a ton of awesome perks!",
-        "order": 4,
+        "order": 2,
         "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />"
       },
       "components": [
@@ -2798,7 +2841,7 @@
           "title": "FPV LP PRICING",
           "subtitle": "Pricing is subject to change.",
           "label1": "HOT!",
-          "title1": "Alpha Tester's Price",
+          "title1": "4S - Standard - 60C",
           "subtitle1": "",
           "currency1": "$",
           "price1": "50",
@@ -2840,7 +2883,7 @@
       "settings": {
         "title": "FLP Giveaway",
         "meta_descr": "Win one FREE Landing Page a day for an entire week! Click here to enter the GIVEAWAY!",
-        "order": 9,
+        "order": 7,
         "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveaway-1400x995.jpg\" />"
       },
       "components": [
@@ -3100,866 +3143,6 @@
           "_customCSS": "",
           "_customTemplate": true,
           "_anchor": "header1-2y"
-        }
-      ]
-    },
-    "giveaway2html": {
-      "settings": {
-        "title": "FLP Giveaway TEST",
-        "meta_descr": "Win one FREE Landing Page a day for an entire week! Click here to enter the GIVEAWAY!",
-        "order": 10,
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveaway-1400x995.jpg\" />"
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-35",
-          "_params": {
-            "bgColor": "#b8312f",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://fpvlandingpages.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-36",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 FpvLandingPages."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-37",
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "1 FREE LANDING PAGE EACH DAY FOR AN ENTIRE WEEK!",
-          "meta": "<p>Starting today May 17th, we will be giving out one <a href=\"widgets.html\" target=\"_blank\">standard category Landing Page</a>&nbsp;each day for a week. Contest will be made by randomly picking a winner at ~8pm EST every day! ($100 worth)</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg",
-              "link": "#bottom",
-              "alt": "giveaway",
-              "title": "FLP Giveaway",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "FREE Fpv Landing Page GIVEAWAY!",
-          "text": "STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;websites'",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here, and then paste on your<br>Facebook Status to SHARE!</a> ",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"29\">FREE Fpv Landing Page GIVEAWAY!</h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"30\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email that we can contact you on!<br><strong>STEP 3:</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!</p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"31\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboar script    -->\n    {JS_CODE_1}\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>\n                  function btn_Click(){\n    alert(\"test\");}</script>",
-            "<script>\nfunction copyToClipboard(element) {\n  var $temp = $(\"<input>\");\n  $(\"body\").append($temp);\n  $temp.val($(element).text()).select();\n  document.execCommand(\"copy\");\n  $temp.remove();\n    alert(\"Perfect, now paste on your facebook status!\");\n}\n    </script>"
-          ],
-          "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "msg-box5-38"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-39",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#475577",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "1- Like and Follow",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/fpv_lp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "\n                     <iframe src=\"https://formview.io/#/jvajhtzsebmmqfn/giveaway1?header=0&amp;theme=readable\n\" class=\" mbr-section mbr-section-full   mbr-after-navbar\" style=\"padding-top:100px;\">You need a Frames Capable browser to view this content.</iframe> \n\n\n\n\n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "header1-3a"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader5",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": true,
-            "showVideo": true,
-            "VideoUrl": "https://www.youtube.com/watch?v=GHx1wTCmJTE",
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc00667rawed-2000x1125.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.4"
-          },
-          "title": "INTRO WITH VIDEO POPUP",
-          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button.svg"
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Modal TEST</a>",
-          "_customCSS": "",
-          "_customHTML": "<!-- background Image -->\n<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader5\" style=\"background-image: url(@PROJECT_PATH@/assets/images/dsc00667rawed-2000x1125.jpg);\">\n<!-- white overlay -->\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(255, 255, 255);\">\n\n    </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            \n\n                            <div class=\"mbr-section-text lead text-center startPreset\">\n                                \n                            </div>\n            \n<!-- play button  -->\n                            <div class=\"mbr-figure intro-play-btn-figure\"><img src=\"@PROJECT_PATH@/assets/images/play-button.svg\"></div>\n    \n\n                            <a class=\"modalWindow-link\"><span class=\"intro-play-btn h-white mbr-editable-content\" code-editable-id=\"81\"><label class=\"startPreset\" for=\"modal\">Watch Video</label></span></a>\n\n                            <div class=\"mbr-section-btn text-center\"><a class=\"modalWindow-link btn btn-primary mbr-editable-button startPreset\" for=\"modal\" code-editable-id=\"82\">Modal TEST</a></div>\n                        \n                                                    <a class=\"modalWindow-link\"><span class=\"intro-play-btn h-white mbr-editable-content\" code-editable-id=\"83\"><label class=\"startPreset\" for=\"modal\">Watch Video</label></span></a>\n\n                    </div>\n         \n\n                </div> \n            </div> \n        </div>\n        <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n        <div class=\"modalWindow\" id=\"modalWindow\">\n            <div class=\"modalWindow-container\">                      \n                 <div class=\"modalWindow-video-container\">\n                     <div class=\"modalWindow-video\" href=\"https://www.youtube.com/watch?v=GHx1wTCmJTE\">\n                         <iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/GHx1wTCmJTE?rel=0&amp;enablejsapi=1\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"closeModal\">×</span>\n                    </a>\n                 </div>\n            </div>\n        </div>       \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_anchor": "extHeader5-3b"
-        }
-      ]
-    },
-    "indexTest2.html": {
-      "settings": {
-        "title": "FPV Landing Pages",
-        "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-3n",
-          "_params": {
-            "bgColor": "#b8312f",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://fpvlandingpages.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader11",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "extHeader11-3o",
-          "_params": {
-            "animText1": "YOU",
-            "animText2": "THE BEST PILOTS",
-            "animText3": "FPVers",
-            "typeSpeed": "80",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc00667rawed-2000x1125.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000000",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "title": "LANDING PAGES&nbsp;<br> FOR",
-          "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">Become ALPHA TESTER</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3v",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_customHTML": "<section class=\"mbr-info mbr-section \" style=\"background-color: rgb(46, 46, 46); padding-top: 70px; padding-bottom: 70px;\">\n\n    \n    <div class=\"container\" style=\"width:90%;\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell col-md-1\">\n                  <div class=\"devices\">\n  <a href=\"#\" class=\"mobile\"></a>\n  <a href=\"#\" class=\"tablet\"></a>\n  <a href=\"#\" class=\"laptop\"></a>\n</div>\n              </div>\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-11 text-xs-center text-md-left\">\n                      <div class=\"browser mobile display-2\">\n  <div class=\"searchbar\">\n    <form>\n      <input type=\"url\" class=\"url\" value=\"http://dexfpv.com\">\n      <button class=\"btn\">Browse</button>\n    </form>\n  </div>\n  <div class=\"iframe\"></div>\n</div>\n                  </div>\n\n              </div>\n        </div>\n    </div>\n</section>\n\n{JS_CODE_0}",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>\n\nvar url = $('.url'),\n    btn = $('.btn'),\n    device = $('.devices a');\n\nbtn.on('click',function(e){\n  e.preventDefault();\n  $('.iframe').html($('<iframe />').attr({\"src\":url.val()}));\n});\n\ndevice.on('click',function(e){\n  e.preventDefault();\n  var type = $(this).attr('class');\n  console.log(type);\n  $('.browser').attr('class','browser '+type);\n});\n</script>"
-          ],
-          "_customCSS": "/* #3a99a7 #465f70  */\n* {\n  box-sizing: border-box;\n}\n\n::-webkit-scrollbar {\n  width: 16px;\n  height: 16px;\n  overflow: visible;\n}\n\n::-webkit-scrollbar-thumb {\n  background-color: rgba(0, 0, 0, 0.2);\n  background-clip: padding-box;\n  border: solid transparent;\n  min-height: 28px;\n  padding: 100px 0 0;\n  -webkit-box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);\n  box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);\n}\n\n::-webkit-scrollbar-button {\n  height: 0;\n  width: 0;\n}\n\n::-webkit-scrollbar-track-piece {\n  background: #f5f5f5;\n}\n\n::-webkit-scrollbar-track {\n  background: none;\n}\n\n::-webkit-scrollbar-corner {\n  background: transparent;\n}\n\n.browser,\n.browser * {\n  transition: width .3s ease;\n}\n\n.devices { \n  float:left;\n  padding-top:20px;\n  padding-right:40px;\n  display:inline;\n}\n\n.browser {\n  padding-top:20px;\n  float:left;\n  margin: 20px auto;\n  width: 320px;\n  min-height: 640px;\n  background: #f5f5f5;\n  border-radius: 5px;\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);\n}\n\n.devices a {\n  margin: 0 10px;\n}\n.devices .mobile {\n  width: 30px;\n  height: 60px;\n  border: 2px solid #f5f5f5;\n  border-top-width: 5px;\n  border-bottom-width: 8px;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px;\n  position: relative;\n}\n.devices .mobile:hover {\n  background: #8f8f8f;\n}\n.devices .mobile:before {\n  content: '';\n  display: block;\n  background: #888;\n  width: 17px;\n  height: 1px;\n  border-radius: 2px;\n  position: absolute;\n  top: -3px;\n  left: 50%;\n  margin-left: -8px;\n}\n.devices .mobile:after {\n  content: '';\n  display: block;\n  background: #888;\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  position: absolute;\n  bottom: -5px;\n  left: 50%;\n  margin-left: -1px;\n}\n.devices .tablet {\n  width: 100px;\n  height: 133px;\n  border: 2px solid #f5f5f5;\n  border-top-width: 5px;\n  border-bottom-width: 8px;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px;\n  position: relative;\n}\n.devices .tablet:hover {\n  background: #8f8f8f;\n}\n.devices .tablet:before {\n  content: '';\n  display: block;\n  background: #888;\n  width: 1px;\n  height: 1px;\n  border-radius: 2px;\n  position: absolute;\n  top: -3px;\n  left: 50%;\n}\n.devices .tablet:after {\n  content: '';\n  display: block;\n  background: #888;\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  position: absolute;\n  bottom: -5px;\n  left: 50%;\n  margin-left: -1px;\n}\n.devices .laptop {\n  width: 237px;\n  height: 150px;\n  border: 8px solid #f5f5f5;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px 3px 0 0;\n  position: relative;\n}\n.devices .laptop:hover {\n  background: #8f8f8f;\n}\n.devices .laptop:after {\n  content: \" \";\n  background: #e8e8e8;\n  display: block;\n  width: 120%;\n  position: absolute;\n  bottom: -10px;\n  margin-left: -10%;\n  height: 10px;\n  border-radius: 0 0 5px 5px;\n}\n\n\n.browser.mobile {\n  width: 50%;\n}\n.browser.mobile .btn {\n  width: 20%;\n}\n.browser.mobile input[type=\"url\"] {\n  width: 78%;\n}\n.browser.tablet {\n  width: 70%;\n}\n.browser.tablet .btn {\n  width: 14%;\n}\n.browser.tablet input[type=\"url\"] {\n  width: 85%;\n}\n.browser.laptop {\n  width: 100%;\n}\n.browser.laptop .btn {\n  width: 9%;\n}\n.browser.laptop input[type=\"url\"] {\n  width: 90%;\n}\n.browser .searchbar {\n  border-radius: 5px 5px 0 0;\n  background: #dddddd;\n  height: 33px;\n  width: 100%;\n  padding: 5px;\n  position: relative;\n}\n.browser .searchbar .btn {\n  position: absolute;\n  top: 6px;\n  right: 5px;\n  border: none;\n  display: block;\n  text-align: center;\n  background: #3a99a7;\n  color: #fff;\n  text-decoration: none;\n  font-size: 11px;\n  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.1);\n  padding: 3px 8px;\n  border-radius: 3px;\n  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);\n  transition: background-color .3s ease;\n}\n.browser .searchbar .btn:hover {\n  background: #368f9c;\n}\n.browser .searchbar input[type=\"url\"] {\n  height: 20px;\n  padding: 5px;\n  border-radius: 3px;\n  border: none;\n  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.2);\n  outline: none;\n  font-size: 9px;\n  color: #aaa;\n}\n\niframe {\n  width: 99.9%;\n  height: 607px;\n}\n",
-          "_customTemplate": true
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-3p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/fpv_lp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-3q",
-          "_params": {
-            "columnsColor": "#efefef",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bm-thinking-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "PICK:",
-          "subtitle1": "Custom domain.",
-          "caption1": "Pick the package you prefer for your Landing Page, and a custom domain. You can follow the steps here!",
-          "button1": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bm-bro-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "CREATE YOUR USER:",
-          "subtitle2": "Send us your info.",
-          "caption2": "Create a user and login. Now fill up yor profile with the required fields. Sign up for a user account below!&nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"login.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bm-form-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "REVISIONS:",
-          "subtitle3": "Time for revisions..",
-          "caption3": "Monkeys have been working hard on your Landing Page! Lets give them some feedback about your project!",
-          "button3": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bm-chef-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "GO LIVE!",
-          "subtitle4": "Let's make it LIVE!",
-          "caption4": "Our lead programmer along with his minion monkeys will finish your AWESOME Landing Page and make it go LIVE!",
-          "button4": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-thinking-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"109\">PICK:</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"110\">Custom domain.</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"111\">Pick the package you prefer for your Landing Page, and a custom domain. You can follow the steps here!</p>\n                        <div class=\"card-btn\"><a href=\"steps.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"112\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-bro-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"113\">CREATE YOUR USER:</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"114\">Send us your info.</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"115\">Create a user and login. Now fill up yor profile with the required fields. Sign up for a user account below!&nbsp;</p>\n                        <div class=\"card-btn\"><a href=\"login.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"116\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-form-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"117\">REVISIONS:</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"118\">Time for revisions..</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"119\">Monkeys have been working hard on your Landing Page! Lets give them some feedback about your project!</p>\n                        <div class=\"card-btn\"><a href=\"steps.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"120\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-chef-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"121\">GO LIVE!</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"122\">Let's make it LIVE!</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"123\">Our lead programmer along with his minion monkeys will finish your AWESOME Landing Page and make it go LIVE!</p>\n                        <div class=\"card-btn\"><a href=\"steps.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"124\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".striped .mbr-cards-col:nth-child(2n+1) {\n\tbackground-color: #efefef;\n}\n.mbr-cards-col:nth-child(odd) .card-text {\n\tcolor: #000000;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n\tcolor: #000000;\n}\n",
-          "_customTemplate": true
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extAccordion3",
-          "_styles": {
-            "P": {
-              "color": "#f7da64"
-            },
-            "DIV": {
-              "color": "#f7da64"
-            }
-          },
-          "_anchor": "extAccordion3-3r",
-          "_params": {
-            "collapseAll": false,
-            "tabs": "3",
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc00621-1400x787.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Accordion FAQ",
-          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-l\" data-core=\"\" href=\"#collapseOneextAccordion3-l\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is FPV Landing Pages?</a>",
-          "text1": "<p>FPV Landing Pages is an ALL IN ONE Solution designed to let you share all of your social media AWESOMNESS through your own custom domain! **Pro Level Achievement UNLOCKED**</p>",
-          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-l\" data-core=\"\" href=\"#collapseTwoextAccordion3-l\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
-          "text2": "We believe it is good for everyone! No more copy-pasting links.. Just share your personal domain and you are done!",
-          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-l\" data-core=\"\" href=\"#collapseThreeextAccordion3-l\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Do I need one?</a>",
-          "text3": "<p>YEAH! How much coolness points do you earn for having your very own website?</p>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-size": "9px"
-            },
-            ".mbr-plan-title": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".mbr-plan-price-desc": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-3s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2d2d2d",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "",
-            "thirdType": "",
-            "fourthType": "hidden"
-          },
-          "title": "FPV LP PRICING",
-          "subtitle": "Pricing is subject to change.",
-          "label1": "HOT!",
-          "title1": "4S - Standard Design - 60C",
-          "subtitle1": "",
-          "currency1": "$",
-          "price1": "80",
-          "period1": "",
-          "description1": "+ domain fee<br>//&nbsp;Regular price: $100<br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Choose a Main Widget, and customize the colors, logo, and social media links<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
-          "label2": "HOT!",
-          "title2": "5S - Semi-Custom - 80C",
-          "subtitle2": "",
-          "currency2": "$",
-          "price2": "150",
-          "period2": "",
-          "description2": "+ domain fee <br>//Regular Price:  $180<br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Customize one of pre-design layouts!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored and custom Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
-          "label3": "HOT!",
-          "title3": "&nbsp;6S - Custom - POWAA",
-          "subtitle3": "",
-          "currency3": "$",
-          "price3": "250+",
-          "period3": "",
-          "description3": "Special quote needed.<br> <a href=\"contact.html\">Contact us!</a>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for? This is it!</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 2 one on one sessions + 5 revisions.</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Quote</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#b8312f"
-            }
-          },
-          "_anchor": "social-buttons1-3t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE the &lt;3!"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-3u",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "<a href=\"privacypolicy.html\">Privacy Policy</a>. &nbsp; Copyright (c) 2017 FpvLandingPages."
         }
       ]
     }
