@@ -40,7 +40,7 @@
                 <div class="mbr-table-cell">
 
                     <div class="navbar-brand">
-                        <a href="http://fpvlandingpages.com" class="navbar-logo"><img src="assets/images/logo-white.svg" alt="fpvlandingpages"></a>
+                        <a href="http://fpvlandingpages.com" class="navbar-logo"><img src="assets/images/logo-white.svg" alt=""></a>
 
                     </div>
 
@@ -51,7 +51,7 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="index.html"><span class="fa fa-home mbr-iconfont mbr-iconfont-btn"></span></a></li><li class="nav-item dropdown open"><a class="nav-link link dropdown-toggle" href="about.html" data-toggle="dropdown-submenu" aria-expanded="true">ABOUT</a><div class="dropdown-menu"><a class="dropdown-item" href="alpha.html">ALPHA TESTER's</a><a class="dropdown-item" href="about.html">ABOUT</a><a class="dropdown-item" href="steps.html">STEPS</a><a class="dropdown-item" href="widgets.html">WIDGETS</a><a class="dropdown-item" href="tutorials.html">TUTORIAL</a></div></li><li class="nav-item dropdown"><a class="nav-link link" href="pricing.html" aria-expanded="false">PRICING</a></li><li class="nav-item"><a class="nav-link link" href="contact.html">CONTACT</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-warning" href="login.html">Login&nbsp;</a></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="index.html"><span class="fa fa-home mbr-iconfont mbr-iconfont-btn"></span></a></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" href="about.html" data-toggle="dropdown-submenu" aria-expanded="false">ABOUT</a><div class="dropdown-menu"><a class="dropdown-item" href="alpha.html">ALPHA TESTER's</a><a class="dropdown-item" href="about.html">ABOUT</a><a class="dropdown-item" href="steps.html">STEPS</a><a class="dropdown-item" href="widgets.html">WIDGETS</a><a class="dropdown-item" href="tutorials.html">TUTORIAL</a></div></li><li class="nav-item dropdown"><a class="nav-link link" href="pricing.html" aria-expanded="false">PRICING</a></li><li class="nav-item dropdown"><a class="nav-link link" href="contact.html">CONTACT</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-warning" href="login.html">Login&nbsp;</a></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
@@ -64,7 +64,7 @@
 
 </section>
 
-<section class="engine"><a rel="external" href="https://fpvlandingpages.com">Web Builder</a></section><section class="mbr-section mbr-section-hero mbr-section-full extHeader11 mbr-parallax-background mbr-after-navbar" id="extHeader11-b" style="background-image: url(assets/images/dsc00667rawed-2000x1125.jpg);">
+<section class="engine"><a rel="external" href="https://.com">Site Builder</a></section><section class="mbr-section mbr-section-hero mbr-section-full extHeader11 mbr-parallax-background mbr-after-navbar" id="extHeader11-b" style="background-image: url(assets/images/dsc00667rawed-2000x1125.jpg);">
 
     <div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(0, 0, 0);">
     </div>
@@ -81,7 +81,7 @@
 
                          </div>
 
-                        <div class="mbr-section-btn text-center"><a class="btn btn-secondary" href="index.html#extAccordion3-l">What is this?<br></a> <a class="btn btn-secondary" href="alpha.html">Become ALPHA TESTER</a></div>
+                        <div class="mbr-section-btn text-center"><a class="btn btn-secondary" href="index.html#extAccordion3-l">What is this?<br></a> <a class="btn btn-secondary" href="alpha.html" target="_blank">Become ALPHA TESTER</a></div>
 
                     </div>
                 </div>
@@ -90,11 +90,12 @@
     <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"><a href="#msg-box2-3z"><i class="mbr-arrow-icon"></i></a></div>
 </section>
 
-<div id="msg-box2-3z" custom-code="true"><section class="mbr-info mbr-section " style="background-color: rgb(46, 46, 46); padding-bottom: 90px; padding-top: 90px;">
+<div id="msg-box2-3z" custom-code="true"><section class=" mbr-section " style="padding-bottom: 90px; padding-top: 90px;">
     <div class="container">
         <div class="row">
         <div class="text-xs-center">
             <h1 style="color:white;">Demo on Devices</h1>
+            <h6 style="color:white;">For best viewing experience, Demo on a Desktop Browser. </h6>
         </div>
             <div class="mbr-table-md-up">
               <div class="mbr-table-cell col-md-2">
@@ -106,29 +107,26 @@
                     </div>
               </div>
 
-                <div class="mbr-table-cell mbr-right-padding-md-up col-md-10 text-xs-center text-md-left">
+                <div class="mbr-table-cell col-md-10 text-xs-center text-md-left">
                     <div class="browser mobile display-2">
                       <div class="searchbar">
                         <form>
                           <input type="url" class="url" value="http://dexfpv.com">
-                              <button class="btn">Browse</button>
+                              <button class="btn1">Browse</button>
                         </form>
                       </div>
                     <div class="iframe"></div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-</section>
 
-<script>
+          <script>
 
 var url = $('.url'),
-    btn = $('.btn'),
+    btn1 = $('.btn1'),
     device = $('.devices a');
 
-btn.on('click',function(e){
+btn1.on('click',function(e){
   e.preventDefault();
   $('.iframe').html($('<iframe />').attr({"src":url.val()}));
 });
@@ -140,6 +138,12 @@ device.on('click',function(e){
   $('.browser').attr('class','browser '+type);
 });
 </script>
+
+    </div>
+</div>
+</section>
+
+
 </div>
 
 <section class="mbr-section mbr-section-md-padding" id="social-buttons4-e" style="background-color: rgb(184, 49, 47); padding-top: 30px; padding-bottom: 30px;">
