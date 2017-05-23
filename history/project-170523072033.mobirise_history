@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "widgets.html",
+    "currentPage": "giveaway.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -40,7 +40,10 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "about.html": {
@@ -331,7 +334,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -453,7 +456,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -642,7 +645,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -853,7 +856,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1318,7 +1321,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1556,7 +1559,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -1763,7 +1766,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -2038,7 +2041,7 @@
           "number1": "INSTAGRAM<br><br>",
           "title1": "Instagram Widget",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Instagram Widget shows your live Instagram feed!<br>-    Upload a picture to instagram, and it will automatically show on your landing page.<br><br>- Link to your other favorite social medias on the menu bar!<br><br>- Add a contact me button or short bio under your Instagram feed!<br>",
+          "caption1": "Instagram Widge shows your live Instagram feed!<br>-    Upload a picture to instagram, and it will automatically show on your landing page.<br><br>- Link to your other favorite social medias on the menu bar!<br><br>- Add a contact me button or short bio under your Instagram feed!<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -2201,7 +2204,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -2326,7 +2329,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -2510,7 +2513,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -2852,10 +2855,551 @@
         }
       ]
     },
-    "giveaway-approval.html": {
+    "indexTest2.html": {
+      "settings": {
+        "title": "FPV Landing Pages",
+        "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
+        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3n",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://fpvlandingpages.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader11",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "extHeader11-3o",
+          "_params": {
+            "animText1": "YOU",
+            "animText2": "THE BEST PILOTS",
+            "animText3": "FPVers",
+            "typeSpeed": "80",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00667rawed-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "LANDING PAGES&nbsp;<br> FOR",
+          "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extAccordion3-l\" data-toolbar=\"-mbrBtnMove\">What is this?<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\">Become ALPHA TESTER</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_customHTML": "<section class=\"mbr-info mbr-section \" style=\"background-color: rgb(46, 46, 46); padding-top: 70px; padding-bottom: 70px;\">\n\n    \n    <div class=\"container\" style=\"width:90%;\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell col-md-1\">\n                  <div class=\"devices\">\n  <a href=\"#\" class=\"mobile\"></a>\n  <a href=\"#\" class=\"tablet\"></a>\n  <a href=\"#\" class=\"laptop\"></a>\n</div>\n              </div>\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-11 text-xs-center text-md-left\">\n                      <div class=\"browser mobile display-2\">\n  <div class=\"searchbar\">\n    <form>\n      <input type=\"url\" class=\"url\" value=\"http://dexfpv.com\">\n      <button class=\"btn\">Browse</button>\n    </form>\n  </div>\n  <div class=\"iframe\"></div>\n</div>\n                  </div>\n\n              </div>\n        </div>\n    </div>\n</section>\n\n{JS_CODE_0}",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n\nvar url = $('.url'),\n    btn = $('.btn'),\n    device = $('.devices a');\n\nbtn.on('click',function(e){\n  e.preventDefault();\n  $('.iframe').html($('<iframe />').attr({\"src\":url.val()}));\n});\n\ndevice.on('click',function(e){\n  e.preventDefault();\n  var type = $(this).attr('class');\n  console.log(type);\n  $('.browser').attr('class','browser '+type);\n});\n</script>"
+          ],
+          "_customCSS": "/* #3a99a7 #465f70  */\n* {\n  box-sizing: border-box;\n}\n\n::-webkit-scrollbar {\n  width: 16px;\n  height: 16px;\n  overflow: visible;\n}\n\n::-webkit-scrollbar-thumb {\n  background-color: rgba(0, 0, 0, 0.2);\n  background-clip: padding-box;\n  border: solid transparent;\n  min-height: 28px;\n  padding: 100px 0 0;\n  -webkit-box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);\n  box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);\n}\n\n::-webkit-scrollbar-button {\n  height: 0;\n  width: 0;\n}\n\n::-webkit-scrollbar-track-piece {\n  background: #f5f5f5;\n}\n\n::-webkit-scrollbar-track {\n  background: none;\n}\n\n::-webkit-scrollbar-corner {\n  background: transparent;\n}\n\n.browser,\n.browser * {\n  transition: width .3s ease;\n}\n\n.devices { \n  float:left;\n  padding-top:20px;\n  padding-right:40px;\n  display:inline;\n}\n\n.browser {\n  padding-top:20px;\n  float:left;\n  margin: 20px auto;\n  width: 320px;\n  min-height: 640px;\n  background: #f5f5f5;\n  border-radius: 5px;\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);\n}\n\n.devices a {\n  margin: 0 10px;\n}\n.devices .mobile {\n  width: 30px;\n  height: 60px;\n  border: 2px solid #f5f5f5;\n  border-top-width: 5px;\n  border-bottom-width: 8px;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px;\n  position: relative;\n}\n.devices .mobile:hover {\n  background: #8f8f8f;\n}\n.devices .mobile:before {\n  content: '';\n  display: block;\n  background: #888;\n  width: 17px;\n  height: 1px;\n  border-radius: 2px;\n  position: absolute;\n  top: -3px;\n  left: 50%;\n  margin-left: -8px;\n}\n.devices .mobile:after {\n  content: '';\n  display: block;\n  background: #888;\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  position: absolute;\n  bottom: -5px;\n  left: 50%;\n  margin-left: -1px;\n}\n.devices .tablet {\n  width: 100px;\n  height: 133px;\n  border: 2px solid #f5f5f5;\n  border-top-width: 5px;\n  border-bottom-width: 8px;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px;\n  position: relative;\n}\n.devices .tablet:hover {\n  background: #8f8f8f;\n}\n.devices .tablet:before {\n  content: '';\n  display: block;\n  background: #888;\n  width: 1px;\n  height: 1px;\n  border-radius: 2px;\n  position: absolute;\n  top: -3px;\n  left: 50%;\n}\n.devices .tablet:after {\n  content: '';\n  display: block;\n  background: #888;\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  position: absolute;\n  bottom: -5px;\n  left: 50%;\n  margin-left: -1px;\n}\n.devices .laptop {\n  width: 237px;\n  height: 150px;\n  border: 8px solid #f5f5f5;\n  background: #b0b0b0;\n  display: inline-block;\n  border-radius: 3px 3px 0 0;\n  position: relative;\n}\n.devices .laptop:hover {\n  background: #8f8f8f;\n}\n.devices .laptop:after {\n  content: \" \";\n  background: #e8e8e8;\n  display: block;\n  width: 120%;\n  position: absolute;\n  bottom: -10px;\n  margin-left: -10%;\n  height: 10px;\n  border-radius: 0 0 5px 5px;\n}\n\n\n.browser.mobile {\n  width: 50%;\n}\n.browser.mobile .btn {\n  width: 20%;\n}\n.browser.mobile input[type=\"url\"] {\n  width: 78%;\n}\n.browser.tablet {\n  width: 70%;\n}\n.browser.tablet .btn {\n  width: 14%;\n}\n.browser.tablet input[type=\"url\"] {\n  width: 85%;\n}\n.browser.laptop {\n  width: 100%;\n}\n.browser.laptop .btn {\n  width: 9%;\n}\n.browser.laptop input[type=\"url\"] {\n  width: 90%;\n}\n.browser .searchbar {\n  border-radius: 5px 5px 0 0;\n  background: #dddddd;\n  height: 33px;\n  width: 100%;\n  padding: 5px;\n  position: relative;\n}\n.browser .searchbar .btn {\n  position: absolute;\n  top: 6px;\n  right: 5px;\n  border: none;\n  display: block;\n  text-align: center;\n  background: #3a99a7;\n  color: #fff;\n  text-decoration: none;\n  font-size: 11px;\n  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.1);\n  padding: 3px 8px;\n  border-radius: 3px;\n  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);\n  transition: background-color .3s ease;\n}\n.browser .searchbar .btn:hover {\n  background: #368f9c;\n}\n.browser .searchbar input[type=\"url\"] {\n  height: 20px;\n  padding: 5px;\n  border-radius: 3px;\n  border: none;\n  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.2);\n  outline: none;\n  font-size: 9px;\n  color: #aaa;\n}\n\niframe {\n  width: 99.9%;\n  height: 607px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box2-3v"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/fpv_lp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bm-thinking-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "PICK:",
+          "subtitle1": "Custom domain.",
+          "caption1": "Pick the package you prefer for your Landing Page, and a custom domain. You can follow the steps here!",
+          "button1": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bm-bro-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "CREATE YOUR USER:",
+          "subtitle2": "Send us your info.",
+          "caption2": "Create a user and login. Now fill up yor profile with the required fields. Sign up for a user account below!&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"login.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bm-form-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "REVISIONS:",
+          "subtitle3": "Time for revisions..",
+          "caption3": "Monkeys have been working hard on your Landing Page! Lets give them some feedback about your project!",
+          "button3": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bm-chef-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "GO LIVE!",
+          "subtitle4": "Let's make it LIVE!",
+          "caption4": "Our lead programmer along with his minion monkeys will finish your AWESOME Landing Page and make it go LIVE!",
+          "button4": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-thinking-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"109\">PICK:</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"110\">Custom domain.</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"111\">Pick the package you prefer for your Landing Page, and a custom domain. You can follow the steps here!</p>\n                        <div class=\"card-btn\"><a href=\"steps.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"112\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-bro-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"113\">CREATE YOUR USER:</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"114\">Send us your info.</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"115\">Create a user and login. Now fill up yor profile with the required fields. Sign up for a user account below!&nbsp;</p>\n                        <div class=\"card-btn\"><a href=\"login.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"116\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-form-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"117\">REVISIONS:</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"118\">Time for revisions..</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"119\">Monkeys have been working hard on your Landing Page! Lets give them some feedback about your project!</p>\n                        <div class=\"card-btn\"><a href=\"steps.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"120\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/bm-chef-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"121\">GO LIVE!</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"122\">Let's make it LIVE!</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"123\">Our lead programmer along with his minion monkeys will finish your AWESOME Landing Page and make it go LIVE!</p>\n                        <div class=\"card-btn\"><a href=\"steps.html\" class=\"btn btn-secondary mbr-editable-button\" code-editable-id=\"124\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".striped .mbr-cards-col:nth-child(2n+1) {\n\tbackground-color: #efefef;\n}\n.mbr-cards-col:nth-child(odd) .card-text {\n\tcolor: #000000;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n\tcolor: #000000;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "features1-3q"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion3",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            },
+            "DIV": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "extAccordion3-3r",
+          "_params": {
+            "collapseAll": false,
+            "tabs": "3",
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00621-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Accordion FAQ",
+          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-l\" data-core=\"\" href=\"#collapseOneextAccordion3-l\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is FPV Landing Pages?</a>",
+          "text1": "<p>FPV Landing Pages is an ALL IN ONE Solution designed to let you share all of your social media AWESOMNESS through your own custom domain! **Pro Level Achievement UNLOCKED**</p>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-l\" data-core=\"\" href=\"#collapseTwoextAccordion3-l\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "text2": "We believe it is good for everyone! No more copy-pasting links.. Just share your personal domain and you are done!",
+          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#extAccordion3-l\" data-core=\"\" href=\"#collapseThreeextAccordion3-l\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Do I need one?</a>",
+          "text3": "<p>YEAH! How much coolness points do you earn for having your very own website?</p>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-size": "9px"
+            },
+            ".mbr-plan-title": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-plan-price-desc": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-3s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2d2d2d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "hidden"
+          },
+          "title": "FPV LP PRICING",
+          "subtitle": "Pricing is subject to change.",
+          "label1": "HOT!",
+          "title1": "4S - Standard Design - 60C",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "80",
+          "period1": "",
+          "description1": "+ domain fee<br>//&nbsp;Regular price: $100<br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Pick from our Pre-design layouts.</li><li class=\"list-group-item\">*Choose a Main Widget, and customize the colors, logo, and social media links<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">*Includes 2 revisions with one of our designers.</span></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "label2": "HOT!",
+          "title2": "5S - Semi-Custom - 80C",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "150",
+          "period2": "",
+          "description2": "+ domain fee <br>//Regular Price:  $180<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">*Customize one of pre-design layouts!</li><li class=\"list-group-item\">*Discuss with one of our coding monkeys, and get a more tailored and custom Landing Page!</li><li class=\"list-group-item\">*Includes 2 revisions after the initial one on one.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=150.00&amp;item_name=Add+to+cart&amp;currency_code=USD\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\">Add to cart</a>",
+          "label3": "HOT!",
+          "title3": "&nbsp;6S - Custom - POWAA",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "250+",
+          "period3": "",
+          "description3": "Special quote needed.<br> <a href=\"contact.html\">Contact us!</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Unique is what you are looking for? This is it!</li><li class=\"list-group-item\">Work alongside with us to build a fully customized website.&nbsp;</li><li class=\"list-group-item\">*Includes 2 one on one sessions + 5 revisions.</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Request Quote</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "social-buttons1-3t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE the &lt;3!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-3u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a href=\"privacypolicy.html\">Privacy Policy</a>. &nbsp; Copyright (c) 2017 FpvLandingPages."
+        }
+      ]
+    },
+    "giveaway.html": {
       "settings": {
         "title": "FLP Giveaway",
-        "meta_descr": "Win FPV Landing Pages and a VELOCIDRONE License! Click here to join this amazing GIVEAWAY! \nFPVLANDINGPAGES.COM",
+        "meta_descr": "Win one FREE Landing Page a day for an entire week! Click here to enter the GIVEAWAY!",
         "order": 9,
         "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveawayvelocidrone.jpg\" />",
         "footer_custom": ""
@@ -2946,7 +3490,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"giveaway.html\">GIVEAWAY :)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
         },
         {
           "_tags": [
@@ -2999,7 +3543,7 @@
             "showMeta": true
           },
           "title": "WIN a FREE VELOCIDRONE License!",
-          "meta": "<p>We are giving away free Standard Category Landing Pages, and our GRAND PRIZE will be a VELOCIDRONE License on Friday, June 16th! &nbsp;Every entry will count towards the final Velocidrone License Giveaway! <br></p>"
+          "meta": "<p>We are giving away free Standard Category Landing Pages, and one GRAND PRIZE of a VELOCIDRONE License will be awarded on Friday, June 16th! &nbsp;Every entry participates towards the Velocidrone License! <br><b>*Customers get 2 valid entries!</b></p>"
         },
         {
           "_tags": [
@@ -3052,7 +3596,7 @@
           "title": "FREE Fpv Landing Page GIVEAWAY!",
           "text": "STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;websites'",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here, and then paste on your<br>Facebook Status to SHARE!</a> ",
-          "_customHTML": "<section class=\"mbr-section\" style=\" background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px; \">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"41\">FREE Fpv Landing Page GIVEAWAY!<br>+<em> VELOCIDRONE</em></h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"42\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email where we can contact you on!<br><strong>STEP 3(Optional):</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!<br><strong>*Extra Points!</strong></p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"43\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveawayvelocidronebig.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboard script    -->\n    {JS_CODE_1}\n    \n    <h6 style=\"text-align: center;\">Make sure to go show our friends at <a href=\"http://www.velocidrone.com\" target=\"_blank\"><strong>Velocidrone</strong></a> some love!</h6>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\" background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px; \">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"209\">FREE Fpv Landing Page GIVEAWAY!<br>+<em> VELOCIDRONE</em></h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"210\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email where we can contact you on!<br><strong>STEP 3:</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!</p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"211\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/GiveawayVelocidrone.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboar script    -->\n    {JS_CODE_1}\n    \n    <h6 style=\"text-align: center;\">Make sure to go show our <a href=\"http://www.velocidrone.com\" target=\"_blank\"><strong>Velocidrone</strong></a> friends some love!</h6>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script>\n                  function btn_Click(){\n    alert(\"test\");}</script>",
