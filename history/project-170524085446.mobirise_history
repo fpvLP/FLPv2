@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FLP v2",
-    "currentPage": "promo.html",
+    "currentPage": "widgets.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 153,
+    "uniqCompNum": 146,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "hello@fpvlandingpages.com",
@@ -40,7 +40,10 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "about.html": {
@@ -760,7 +763,7 @@
         "title": "FPV Landing Pages",
         "meta_descr": "Get noticed! Get your Pilot Website! Get your FPV Landing Page Today! www.fpvLandingPages.com",
         "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/alpha-testers-2000x2113.jpg\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages2.css\">\n<script\n  src=\"https://code.jquery.com/jquery-3.2.1.js\"\n  integrity=\"sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=\"\n  crossorigin=\"anonymous\"></script>\n",
-        "footer_custom": "\t<a href=\"http://fpvlandingpages.com/promo\" class=\"logo\" target=\"\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/promo.png\" alt=\"\">\n\t</a> ",
+        "footer_custom": "\t<a href=\"http://fpvlandingpages.com/giveaway\" class=\"logo\" target=\"\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/givevel-2000x1276.png\" alt=\"\">\n\t</a> ",
         "html_before": "",
         "order": 1
       },
@@ -2400,16 +2403,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/givevel-2000x1276-800x510.png",
                 "image": "@PROJECT_PATH@/assets/images/givevel-2000x1276.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/velocidrone-logo-800x412.png",
-                "image": "@PROJECT_PATH@/assets/images/velocidrone-logo.png",
-                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -2424,64 +2417,6 @@
           "_anchor": "gallery1-2s",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-48",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/velocidrone-logo.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Promo image ---&gt;",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(204, 204, 204); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"25\">Promo image ---&gt;</h3>\n                  \n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/promo.png\"></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
         }
       ]
     },
@@ -3120,7 +3055,7 @@
           "title": "FREE Fpv Landing Page GIVEAWAY!",
           "text": "STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;websites'",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here, and then paste on your<br>Facebook Status to SHARE!</a> ",
-          "_customHTML": "<section class=\"mbr-section\" style=\" background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px; \">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"41\">FREE Fpv Landing Page GIVEAWAY!<br>+<em> VELOCIDRONE</em></h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"42\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email where we can contact you on!<br><strong>STEP 3(Optional):</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!<br><strong>*Extra Points!</strong></p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"43\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveawayvelocidronebig.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboard script    -->\n    {JS_CODE_1}\n    \n    <h6 style=\"text-align: center;\">Make sure to go show our friends at <a href=\"http://www.velocidrone.com\" target=\"_blank\"><strong>Velocidrone</strong></a> some love!</h6>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\" background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px; \">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"41\">FREE Fpv Landing Page GIVEAWAY!<br>+<em> VELOCIDRONE</em></h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"42\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email where we can contact you on!<br><strong>STEP 3(Optional):</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!<br><strong>*Extra Points!</strong></p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"43\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/GiveawayVelocidroneBIG.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboard script    -->\n    {JS_CODE_1}\n    \n    <h6 style=\"text-align: center;\">Make sure to go show our friends at <a href=\"http://www.velocidrone.com\" target=\"_blank\"><strong>Velocidrone</strong></a> some love!</h6>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script>\n                  function btn_Click(){\n    alert(\"test\");}</script>",
@@ -3190,279 +3125,6 @@
           "_customCSS": "",
           "_customTemplate": true,
           "_anchor": "header1-2y"
-        }
-      ]
-    },
-    "promo.html": {
-      "settings": {
-        "title": "FLP Giveaway",
-        "meta_descr": "Win FPV Landing Pages and a VELOCIDRONE License! Click here to join this amazing GIVEAWAY! \nFPVLANDINGPAGES.COM",
-        "order": 9,
-        "header_custom": "<meta property=\"og:image\"              content=\"http://www.fpvlandingpages.com/assets/images/giveawayvelocidrone.jpg\" />",
-        "footer_custom": ""
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-42",
-          "_params": {
-            "bgColor": "#b8312f",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://fpvlandingpages.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\">&nbsp;</span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alpha.html\">ALPHA TESTER's</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\">ABOUT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steps.html\">STEPS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"widgets.html\">WIDGETS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tutorials.html\">TUTORIAL</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"login.html\">Login&nbsp;</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-43",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 FpvLandingPages."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#f3c649"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-44",
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#475577",
-            "showMeta": true
-          },
-          "title": "WIN a FREE VELOCIDRONE License!",
-          "meta": "<p>We are giving away free Standard Category Landing Pages, and our GRAND PRIZE will be a VELOCIDRONE License on Friday, June 16th! &nbsp;Every entry will count towards the final Velocidrone License Giveaway! <br></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/giveaway-1400x995.jpg",
-              "link": "#bottom",
-              "alt": "giveaway",
-              "title": "FLP Giveaway",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "FREE Fpv Landing Page GIVEAWAY!",
-          "text": "STEP 1:<br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\">Facebook</a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\">Instagram</a>!<br>Step 2:<br>Fill out the form below with your name and an email we can contact you on!<br>Step 3:<br>Share this &nbsp;websites'",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"alpha.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here, and then paste on your<br>Facebook Status to SHARE!</a> ",
-          "_customHTML": "<section class=\"mbr-section\" style=\" background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px; \">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"41\">FREE Fpv Landing Page GIVEAWAY!<br>+<em> VELOCIDRONE</em></h3>\n                  <div class=\"lead\">\n\n                      <p class=\"mbr-editable-content\" code-editable-id=\"42\"><strong>STEP 1:</strong><br>like us on <a href=\"https://www.facebook.com/fpv.lp/\" target=\"_blank\"><strong>Facebook</strong></a> and follow us on <a href=\"https://www.instagram.com/fpv.lp/\" target=\"_blank\"><strong>Instagram</strong></a>!<br><strong>STEP 2:</strong><br><strong>Fill</strong> out the form below with your name and an email where we can contact you on!<br><strong>STEP 3(Optional):</strong><br><strong>Share</strong> this &nbsp;website on your facebook by clicking on the button below and pasting on your Facebook's Status!<br><strong>*Extra Points!</strong></p>\n                  </div>\n\n                  \n\n                  <div><button class=\"btn btn-primary mbr-editable-button\" onclick=\"copyToClipboard('#p1')\" code-editable-id=\"43\">Click here, to copy!</button></div>\n                  <p id=\"p1\" style=\"visibility: hidden;\">fpvlandingpages.com/giveaway</p>\n              </div>\n                      {JS_CODE_0}\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><a href=\"#bottom\"><img src=\"@PROJECT_PATH@/assets/images/giveawayvelocidronebig.jpg\" alt=\"giveaway\" title=\"FLP Giveaway\"></a></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n    \n<!--  Sticky Wicked Chicken/ copy to Clipboard script    -->\n    {JS_CODE_1}\n    \n    <h6 style=\"text-align: center;\">Make sure to go show our friends at <a href=\"http://www.velocidrone.com\" target=\"_blank\"><strong>Velocidrone</strong></a> some love!</h6>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>\n                  function btn_Click(){\n    alert(\"test\");}</script>",
-            "<script>\nfunction copyToClipboard(element) {\n  var $temp = $(\"<input>\");\n  $(\"body\").append($temp);\n  $temp.val($(element).text()).select();\n  document.execCommand(\"copy\");\n  $temp.remove();\n    alert(\"Perfect, now paste on your facebook status!\");\n}\n    </script>"
-          ],
-          "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "msg-box5-45"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-46",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#475577",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "1- Like and Follow",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/fpv_lp\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fpv.lp/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "\n                     <iframe src=\"https://formview.io/#/jvajhtzsebmmqfn/giveaway1?header=0&amp;theme=readable\n\" class=\" mbr-section mbr-section-full   mbr-after-navbar\" style=\"padding-top:100px;\">You need a Frames Capable browser to view this content.</iframe> \n\n\n\n\n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "header1-47"
         }
       ]
     }
